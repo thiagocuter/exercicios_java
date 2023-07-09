@@ -10,7 +10,7 @@ package hello_World;
 public class hello_World {
 
 	/**
- 	Mais bascico dos programar escritos em java. 
+ 	Mais basico dos programas escritos em java. 
 	 *1. Write a Java program to print 'Hello' on screen and your name on a separate line.
 Expected Output :
 Hello
